@@ -13,25 +13,20 @@ export const DATA = {
     "At the end of 2019, I left my job in Sport & Recreation and at the beginning of 2020 became introduced to Kangen Water®. I have been actively promoting and sharing information pertaining to this high-quality water. I have been in and out of jobs, alongside taking up A La Carte Freelancing gigs pertaining to media buying for SMBs, SMEs, Volunteer Commission work for startups. Offering my services via Upwork, Social Media & Outreach.",
   avatarUrl: "/me.png",
   skills: [
-    "React",
-    "Next.js",
-    "Typescript",
-    "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
-    "Java",
-    "C++",
+    "Figma",
+    "NoCode",
+    "Prompt Engineering",
+    "Vibe Coding",
+    "Canva",
+    "Youtube",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "llewellyn@telluricaquarian.com",
+    tel: "upon request",
     social: {
       GitHub: {
         name: "GitHub",
