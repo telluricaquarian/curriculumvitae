@@ -170,7 +170,7 @@ export const DATA = {
       end: "2021",
     },
     {
-      school: "International Baccalaureate",
+      school: "YMAA",
       href: "https://ibo.org",
       degree: "IB Diploma",
       logoUrl: "/ib.png",
