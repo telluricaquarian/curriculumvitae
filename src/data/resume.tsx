@@ -72,16 +72,16 @@ export const DATA = {
 
   work: [
     {
-      company: "Atomic Finance",
-      href: "https://atomic.finance",
+      company: "Ursubstanz",
+      href: "https://ursubstanz.com/",
       badges: [],
-      location: "Remote",
-      title: "Bitcoin Protocol Engineer",
+      location: "Planet Earth",
+      title: "Owner",
       logoUrl: "/atomic.png",
-      start: "May 2021",
-      end: "Oct 2022",
+      start: "Feb 28, 2025",
+      end: "Present",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "URSUBSTANZ is a burgeoning & newly created business, germinating from a small seed planted, a singular word, “ursubstanz” - discovered from literary material written by Dr. Stefan Lanka",
     },
     {
       company: "Shopify",
