@@ -16,17 +16,22 @@ export const DATA = {
     "Figma",
     "NoCode",
     "Prompt Engineering",
-    "Vibe Coding",
-    "Canva",
-    "Youtube",
+    "Vibe",
+    "Python",
+    "Go",
+    "Postgres",
+    "Docker",
+    "Kubernetes",
+    "Java",
+    "C++",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "llewellyn@telluricaquarian.com",
-    tel: "upon request",
+    email: "hello@example.com",
+    tel: "+123456789",
     social: {
       GitHub: {
         name: "GitHub",
