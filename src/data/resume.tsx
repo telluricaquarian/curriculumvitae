@@ -8,7 +8,7 @@ export const DATA = {
   location: "Planet Earth",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Self-proclaimer Designer, Creative & Student of Water",
+    "Self-proclaimed Designer, Creative & Student of Water",
   summary:
     "At the end of 2019, I left my job in Sport & Recreation and at the beginning of 2020 became introduced to Kangen Water®. I have been actively promoting and sharing information pertaining to this high-quality water. I have been in and out of jobs, alongside taking up A La Carte Freelancing gigs pertaining to media buying for SMBs, SMEs, Volunteer Commission work for startups. Offering my services via Upwork, Social Media & Outreach.",
   avatarUrl: "/me.png",
