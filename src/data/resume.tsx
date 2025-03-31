@@ -84,16 +84,16 @@ export const DATA = {
         "URSUBSTANZ is a burgeoning & newly created business, germinating from a small seed planted, a singular word, “ursubstanz” - discovered from literary material written by Dr. Stefan Lanka",
     },
     {
-      company: "Shopify",
+      company: "Areculateir",
       badges: [],
-      href: "https://shopify.com",
+      href: "https://telluricaquarian.com/",
       location: "Remote",
-      title: "Software Engineer",
-      logoUrl: "/shopify.svg",
-      start: "January 2021",
-      end: "April 2021",
+      title: "Web-Dev & Web Designer",
+      logoUrl: "/shopify.png",
+      start: "Nov 28, 2024",
+      end: "Present",
       description:
-        "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
+        "Areculateir is a Web Design Brand, Designed to function as a content delivery directory, showcasing design & visual assets.",
     },
     {
       company: "Nvidia",
