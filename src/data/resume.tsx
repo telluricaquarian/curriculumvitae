@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Llewellyn Y. Fisher",
   initials: "L.Y.F",
-  url: "https://dillion.io",
+  url: "https://bento.me/telluricaquarian",
   location: "Planet Earth",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
