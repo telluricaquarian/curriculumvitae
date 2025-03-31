@@ -96,16 +96,16 @@ export const DATA = {
         "Areculateir is a Web Design Brand, Designed to function as a content delivery directory, showcasing design & visual assets.",
     },
     {
-      company: "Nvidia",
-      href: "https://nvidia.com/",
+      company: "Telluricaquarian",
+      href: "https://telluricaquarian.com/",
       badges: [],
-      location: "Santa Clara, CA",
-      title: "Software Engineer",
+      location: "Planet Earth",
+      title: "Owner",
       logoUrl: "/nvidia.png",
-      start: "January 2020",
-      end: "April 2020",
+      start: "July 2023",
+      end: "present",
       description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
+        "Telluricaquarian is a brand that is created by llewellyn, that is designed for the delivery of messages relating to products & services pertaining to Technology, Design & Water, with a large focus on fringe insights regarding Water Technology Water Ionisers offered by Enagic® which are designed to electrolytically transform water.",
     },
     {
       company: "Splunk",
