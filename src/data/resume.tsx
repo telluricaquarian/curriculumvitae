@@ -72,7 +72,7 @@ export const DATA = {
 
   work: [
     {
-      company: "Ursubstanz",
+      company: "Ursubstanz - Primordial Originating Force/Substance - APOTHECARY & APPAREL",
       href: "https://ursubstanz.com/",
       badges: [],
       location: "Planet Earth",
