@@ -547,7 +547,7 @@ export const DATA = {
       location: "Toronto, Ontario",
       description: "Developed neural network to optimize a mining process",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-mining.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [],
     },
     {
@@ -557,7 +557,7 @@ export const DATA = {
       description:
         "Developed Pocketdoc, an app in which you take a picture of a physical wound, and the app returns common solutions or cures to the injuries or diseases.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/waterloo-equithon.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
         {
           title: "Devpost",
@@ -583,7 +583,7 @@ export const DATA = {
       description:
         "Developed Earthwatch, a web application which allows users in a plane to virtually see important points of interest about the world below them. They can even choose to fly away from their route and then fly back if they choose. Special thanks to CesiumJS for providing open source world and plane models.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/space-apps.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
         {
           title: "Source",
@@ -599,7 +599,7 @@ export const DATA = {
       description:
         "Developed Super Graphic Air Traffic, a VR website made to introduce people to the world of air traffic controlling. This project was built completely using THREE.js as well as a node backend server.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/mhacks-9.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
       links: [
         {
@@ -616,7 +616,7 @@ export const DATA = {
       description:
         "Developed at StartHacks 2017, Recipic is a mobile app which allows you to take pictures of ingredients around your house, and it will recognize those ingredients using ClarifAI image recognition API and return possible recipes to make. Recipic recieved 1st place at the hackathon for best pitch and hack.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/starthacks.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "1st Place Winner",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
       links: [
@@ -639,7 +639,7 @@ export const DATA = {
       description:
         "Developed a mobile game which enables city-wide manhunt with random lobbies",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/qhacks.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
       links: [
         {
@@ -661,7 +661,7 @@ export const DATA = {
       description:
         "Developed a mock of Windows 11 with interesting notifications and functionality",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/terrible-hacks-v.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
         {
           title: "Source",
