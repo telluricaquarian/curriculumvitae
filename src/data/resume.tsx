@@ -49,14 +49,14 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://x.com/potentialseven",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://www.youtube.com/@telluricaquarian",
         icon: Icons.youtube,
         navbar: true,
       },
