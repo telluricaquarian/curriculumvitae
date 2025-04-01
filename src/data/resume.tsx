@@ -237,7 +237,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://telluricaquarian.com/wp-content/uploads/2025/02/Thumbnail-5.mp4",
+      video: "https://cdn.magicui.design/bento-grid.mp4",
     },
     {
       title: "Areculateir",
@@ -270,7 +270,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      video: "https://telluricaquarian.com/wp-content/uploads/2025/02/Thumbnail-5.mp4",
     },
     {
       title: "Anatroliac",
