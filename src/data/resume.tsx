@@ -181,7 +181,7 @@ export const DATA = {
   projects: [
     {
       title: "Telluricaquarian",
-      href: "https://chatcollect.com",
+      href: "https://telluricaquarian.com/",
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
