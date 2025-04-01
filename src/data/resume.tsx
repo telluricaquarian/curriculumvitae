@@ -273,7 +273,7 @@ export const DATA = {
       video: "https://telluricaquarian.com/wp-content/uploads/2025/02/Thumbnail-5.mp4",
     },
     {
-      title: "Anatroliac",
+      title: "TheThinkingSpirit - Youtube Channel",
       href: "https://automatic.chat",
       dates: "April 2023 - March 2024",
       active: true,
