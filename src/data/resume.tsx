@@ -304,7 +304,7 @@ export const DATA = {
   ],
   hackathons: [
     {
-      title: "Hack Western 5",
+      title: "TLRCAQRN Git 21",
       dates: "November 23rd - 25th, 2018",
       location: "London, Ontario",
       description:
@@ -315,7 +315,7 @@ export const DATA = {
       links: [],
     },
     {
-      title: "Hack The North",
+      title: "TLRCAQRN Git 20",
       dates: "September 14th - 16th, 2018",
       location: "Waterloo, Ontario",
       description:
@@ -326,7 +326,7 @@ export const DATA = {
       links: [],
     },
     {
-      title: "FirstNet Public Safety Hackathon",
+      title: "TLRCAQRN Git 19",
       dates: "March 23rd - 24th, 2018",
       location: "San Francisco, California",
       description:
@@ -337,7 +337,7 @@ export const DATA = {
       links: [],
     },
     {
-      title: "DeveloperWeek Hackathon",
+      title: "TLRCAQRN Git 18",
       dates: "February 3rd - 4th, 2018",
       location: "San Francisco, California",
       description:
@@ -353,7 +353,7 @@ export const DATA = {
       ],
     },
     {
-      title: "HackDavis",
+      title: "TLRCAQRN Git 17",
       dates: "January 20th - 21st, 2018",
       location: "Davis, California",
       description:
@@ -386,7 +386,7 @@ export const DATA = {
       ],
     },
     {
-      title: "ETH Waterloo",
+      title: "TLRCAQRN Git 16",
       dates: "October 13th - 15th, 2017",
       location: "Waterloo, Ontario",
       description:
@@ -402,7 +402,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Hack The North",
+      title: "TLRCAQRN Git 15",
       dates: "September 15th - 17th, 2017",
       location: "Waterloo, Ontario",
       description:
@@ -424,7 +424,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Hack The 6ix",
+      title: "TLRCAQRN Git 14",
       dates: "August 26th - 27th, 2017",
       location: "Toronto, Ontario",
       description:
@@ -446,7 +446,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Stupid Hack Toronto",
+      title: "TLRCAQRN Git 13",
       dates: "July 23rd, 2017",
       location: "Toronto, Ontario",
       description:
@@ -462,7 +462,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Global AI Hackathon - Toronto",
+      title: "TLRCAQRN Git 12",
       dates: "June 23rd - 25th, 2017",
       location: "Toronto, Ontario",
       description:
@@ -484,7 +484,7 @@ export const DATA = {
       ],
     },
     {
-      title: "McGill AI for Social Innovation Hackathon",
+      title: "TLRCAQRN Git 11",
       dates: "June 17th - 18th, 2017",
       location: "Montreal, Quebec",
       description:
@@ -494,7 +494,7 @@ export const DATA = {
       links: [],
     },
     {
-      title: "Open Source Circular Economy Days Hackathon",
+      title: "TLRCAQRN Git 10",
       dates: "June 10th, 2017",
       location: "Toronto, Ontario",
       description:
@@ -511,7 +511,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Make School's Student App Competition 2017",
+      title: "TLRCAQRN Git 09",
       dates: "May 19th - 21st, 2017",
       location: "International",
       description: "Improved PocketDoc and submitted to online competition",
@@ -542,7 +542,7 @@ export const DATA = {
       ],
     },
     {
-      title: "HackMining",
+      title: "TLRCAQRN Git 08",
       dates: "May 12th - 14th, 2017",
       location: "Toronto, Ontario",
       description: "Developed neural network to optimize a mining process",
@@ -551,7 +551,7 @@ export const DATA = {
       links: [],
     },
     {
-      title: "Waterloo Equithon",
+      title: "TLRCAQRN Git 07",
       dates: "May 5th - 7th, 2017",
       location: "Waterloo, Ontario",
       description:
@@ -577,7 +577,7 @@ export const DATA = {
       ],
     },
     {
-      title: "SpaceApps Waterloo",
+      title: "TLRCAQRN Git 06",
       dates: "April 28th - 30th, 2017",
       location: "Waterloo, Ontario",
       description:
@@ -593,7 +593,7 @@ export const DATA = {
       ],
     },
     {
-      title: "MHacks 9",
+      title: "TLRCAQRN Git 05",
       dates: "March 24th - 26th, 2017",
       location: "Ann Arbor, Michigan",
       description:
@@ -610,7 +610,7 @@ export const DATA = {
       ],
     },
     {
-      title: "StartHacks I",
+      title: "TLRCAQRN Git 04",
       dates: "March 4th - 5th, 2017",
       location: "Waterloo, Ontario",
       description:
@@ -633,7 +633,7 @@ export const DATA = {
       ],
     },
     {
-      title: "QHacks II",
+      title: "TLRCAQRN Git 03",
       dates: "February 3rd - 5th, 2017",
       location: "Kingston, Ontario",
       description:
@@ -655,7 +655,7 @@ export const DATA = {
       ],
     },
     {
-      title: "Terrible Hacks V",
+      title: "TLRCAQRN Git 02",
       dates: "November 26th, 2016",
       location: "Waterloo, Ontario",
       description:
