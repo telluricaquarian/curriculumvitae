@@ -274,7 +274,7 @@ export const DATA = {
     },
     {
       title: "TheThinkingSpirit - Youtube Channel",
-      href: "https://automatic.chat",
+      href: "https://www.youtube.com/@telluricaquarian",
       dates: "April 2023 - March 2024",
       active: true,
       description:
