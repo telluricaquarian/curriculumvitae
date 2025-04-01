@@ -677,12 +677,12 @@ export const DATA = {
       description:
         "Makeshift version 1",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/portal-hackathon.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/UWPortalSDK/crowmark",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
