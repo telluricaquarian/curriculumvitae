@@ -237,7 +237,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      video: "https://telluricaquarian.com/wp-content/uploads/2025/04/Untitled-design-9.mp4",
     },
     {
       title: "Areculateir",
