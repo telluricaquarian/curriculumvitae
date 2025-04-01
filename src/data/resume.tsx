@@ -302,8 +302,3 @@ export const DATA = {
         "https://telluricaquarian.com/wp-content/uploads/2025/04/Untitled-design-11.mp4",
     },
   ],
-        },
-      ],
-    },
-  ],
-} as const;
