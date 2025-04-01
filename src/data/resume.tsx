@@ -205,7 +205,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/Untitled-design-10.mp4",
     },
     {
       title: "Ursubstanz",
