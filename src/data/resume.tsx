@@ -180,7 +180,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Telluricaquarian",
+      title: "Telluricaquarian - Tech. Design & Water",
       href: "https://telluricaquarian.com/",
       dates: "Jan 2024 - Feb 2024",
       active: true,
@@ -208,7 +208,7 @@ export const DATA = {
         "https://telluricaquarian.com/wp-content/uploads/2025/04/Untitled-design-10.mp4",
     },
     {
-      title: "Ursubstanz",
+      title: "Ursubstanz - Apparel & Apothecary",
       href: "https://ursubstanz.com/",
       dates: "June 2023 - Present",
       active: true,
@@ -240,7 +240,7 @@ export const DATA = {
       video: "https://telluricaquarian.com/wp-content/uploads/2025/04/Untitled-design-9.mp4",
     },
     {
-      title: "Areculateir",
+      title: "Areculateir - Web Design & Development",
       href: "https://telluricaquarian.com/",
       dates: "Nov 28",
       active: true,
