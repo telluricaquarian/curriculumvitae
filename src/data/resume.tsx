@@ -275,10 +275,10 @@ export const DATA = {
     {
       title: "TheThinkingSpirit - Youtube Channel",
       href: "https://www.youtube.com/@telluricaquarian",
-      dates: "April 2023 - March 2024",
+      dates: "2020 - Present",
       active: true,
       description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
+        "“Water is the common matrix of all growth: all forms of nature are painted by its invisible brush, revealing an imperfect world full of complexity and intelligence. Water also shapes and defines us as a spiritual, conscious part of this planet in search of meaning, quote by: Dr. Paolo Consigli.",
       technologies: [
         "Next.js",
         "Typescript",
