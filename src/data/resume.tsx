@@ -310,7 +310,7 @@ export const DATA = {
       description:
         "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
@@ -321,7 +321,7 @@ export const DATA = {
       description:
         "Developed a mobile application which delivers university campus wide events in real time to all students.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-north.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
@@ -333,7 +333,7 @@ export const DATA = {
         "Developed a mobile application which communcicates a victims medical data from inside an ambulance to doctors at hospital.",
       icon: "public",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/firstnet.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [],
     },
     {
@@ -343,7 +343,7 @@ export const DATA = {
       description:
         "Developed a web application which aggregates social media data regarding cryptocurrencies and predicts future prices.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/developer-week.jpg",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
         {
           title: "Github",
@@ -359,7 +359,7 @@ export const DATA = {
       description:
         "Developed a mobile application which allocates a daily carbon emission allowance to users to move towards a sustainable environment.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-davis.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "Best Data Hack",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2018/white.svg",
       links: [
@@ -392,7 +392,7 @@ export const DATA = {
       description:
         "Developed a blockchain application for doctors and pharmacists to perform trustless transactions and prevent overdosage in patients.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/eth-waterloo.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
         {
           title: "Organization",
@@ -408,7 +408,7 @@ export const DATA = {
       description:
         "Developed a virtual reality application allowing users to see themselves in third person.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-north.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
       links: [
         {
@@ -430,7 +430,7 @@ export const DATA = {
       description:
         "Developed an open platform for people shipping items to same place to combine shipping costs and save money.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-6ix.jpg",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
       links: [
         {
@@ -452,7 +452,7 @@ export const DATA = {
       description:
         "Developed a chrome extension which tracks which facebook profiles you have visited and immediately texts your girlfriend if you visited another girls page.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/stupid-hackathon.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
         {
           title: "Source",
@@ -468,7 +468,7 @@ export const DATA = {
       description:
         "Developed a python library which can be imported to any python game and change difficulty of the game based on real time emotion of player. Uses OpenCV and webcam for facial recognition, and a custom Machine Learning Model trained on a [Kaggle Emotion Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard) using [Tensorflow](https://www.tensorflow.org/Tensorflow) and [Keras](https://keras.io/). This project recieved 1st place prize at the Global AI Hackathon - Toronto and was also invited to demo at [NextAI Canada](https://www.nextcanada.com/next-ai).",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/global-ai-hackathon.jpg",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "1st Place Winner",
       links: [
         {
@@ -490,7 +490,7 @@ export const DATA = {
       description:
         "Developed realtime facial microexpression analyzer using AI",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/ai-for-social-good.jpg",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [],
     },
     {
@@ -500,7 +500,7 @@ export const DATA = {
       description:
         "Developed a custom admin interface for food waste startup <a href='http://genecis.co/'>Genecis</a> to manage their data and provide analytics.",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/open-source-circular-economy-days.jpg",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "1st Place Winner",
       links: [
         {
@@ -516,7 +516,7 @@ export const DATA = {
       location: "International",
       description: "Improved PocketDoc and submitted to online competition",
       image:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/make-school-hackathon.png",
+        "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "Top 10 Finalist | Honourable Mention",
       links: [
         {
