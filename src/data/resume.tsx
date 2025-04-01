@@ -209,14 +209,9 @@ export const DATA = {
       description:
         "Designed, developed and sold animated UI components for developers.",
       technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
+        "Shopify",
+        "Openspaces",
+        "Studioinnate",
       ],
       links: [
         {
