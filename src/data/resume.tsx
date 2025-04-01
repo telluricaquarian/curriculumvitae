@@ -308,7 +308,7 @@ export const DATA = {
       dates: "November 23rd - 25th, 2018",
       location: "Planet Earth",
       description:
-        "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
+        "Telluric Gits Currently Under Construction.",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
@@ -319,7 +319,7 @@ export const DATA = {
       dates: "September 14th - 16th, 2018",
       location: "Planet Earth",
       description:
-        "Developed a mobile application which delivers university campus wide events in real time to all students.",
+        "Telluric Gits Currently Under Construction.",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
@@ -330,7 +330,7 @@ export const DATA = {
       dates: "March 23rd - 24th, 2018",
       location: "Planet Earth",
       description:
-        "Developed a mobile application which communcicates a victims medical data from inside an ambulance to doctors at hospital.",
+        "Telluric Gits Currently Under Construction.",
       icon: "public",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
@@ -341,7 +341,7 @@ export const DATA = {
       dates: "February 3rd - 4th, 2018",
       location: "Planet Earth",
       description:
-        "Developed a web application which aggregates social media data regarding cryptocurrencies and predicts future prices.",
+        "Telluric Gits Currently Under Construction.",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
@@ -357,7 +357,7 @@ export const DATA = {
       dates: "January 20th - 21st, 2018",
       location: "Planet Earth",
       description:
-        "Developed a mobile application which allocates a daily carbon emission allowance to users to move towards a sustainable environment.",
+        "Telluric Gits Currently Under Construction.",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "Best Data Hack",
@@ -390,7 +390,7 @@ export const DATA = {
       dates: "October 13th - 15th, 2017",
       location: "Planet Earth",
       description:
-        "Developed a blockchain application for doctors and pharmacists to perform trustless transactions and prevent overdosage in patients.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
@@ -406,7 +406,7 @@ export const DATA = {
       dates: "September 15th - 17th, 2017",
       location: "Planet Earth",
       description:
-        "Developed a virtual reality application allowing users to see themselves in third person.",
+        "Telluric Gits Currently Under Construction.",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
@@ -428,7 +428,7 @@ export const DATA = {
       dates: "August 26th - 27th, 2017",
       location: "Planet Earth",
       description:
-        "Developed an open platform for people shipping items to same place to combine shipping costs and save money.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
@@ -450,7 +450,7 @@ export const DATA = {
       dates: "July 23rd, 2017",
       location: "Planet Earth",
       description:
-        "Developed a chrome extension which tracks which facebook profiles you have visited and immediately texts your girlfriend if you visited another girls page.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
@@ -466,7 +466,7 @@ export const DATA = {
       dates: "June 23rd - 25th, 2017",
       location: "Planet Earth",
       description:
-        "Developed a python library which can be imported to any python game and change difficulty of the game based on real time emotion of player. Uses OpenCV and webcam for facial recognition, and a custom Machine Learning Model trained on a [Kaggle Emotion Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard) using [Tensorflow](https://www.tensorflow.org/Tensorflow) and [Keras](https://keras.io/). This project recieved 1st place prize at the Global AI Hackathon - Toronto and was also invited to demo at [NextAI Canada](https://www.nextcanada.com/next-ai).",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "1st Place Winner",
@@ -488,7 +488,7 @@ export const DATA = {
       dates: "June 17th - 18th, 2017",
       location: "Planet Earth",
       description:
-        "Developed realtime facial microexpression analyzer using AI",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [],
@@ -498,7 +498,7 @@ export const DATA = {
       dates: "June 10th, 2017",
       location: "Planet Earth",
       description:
-        "Developed a custom admin interface for food waste startup <a href='http://genecis.co/'>Genecis</a> to manage their data and provide analytics.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "1st Place Winner",
@@ -514,7 +514,7 @@ export const DATA = {
       title: "TLRCAQRN Git 09",
       dates: "May 19th - 21st, 2017",
       location: "Planet Earth",
-      description: "Improved PocketDoc and submitted to online competition",
+      description: "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "Top 10 Finalist | Honourable Mention",
@@ -555,7 +555,7 @@ export const DATA = {
       dates: "May 5th - 7th, 2017",
       location: "Planet Earth",
       description:
-        "Developed Pocketdoc, an app in which you take a picture of a physical wound, and the app returns common solutions or cures to the injuries or diseases.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
@@ -581,7 +581,7 @@ export const DATA = {
       dates: "April 28th - 30th, 2017",
       location: "Planet Earth",
       description:
-        "Developed Earthwatch, a web application which allows users in a plane to virtually see important points of interest about the world below them. They can even choose to fly away from their route and then fly back if they choose. Special thanks to CesiumJS for providing open source world and plane models.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
@@ -597,7 +597,7 @@ export const DATA = {
       dates: "March 24th - 26th, 2017",
       location: "Planet Earth",
       description:
-        "Developed Super Graphic Air Traffic, a VR website made to introduce people to the world of air traffic controlling. This project was built completely using THREE.js as well as a node backend server.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
@@ -614,7 +614,7 @@ export const DATA = {
       dates: "March 4th - 5th, 2017",
       location: "Planet Earth",
       description:
-        "Developed at StartHacks 2017, Recipic is a mobile app which allows you to take pictures of ingredients around your house, and it will recognize those ingredients using ClarifAI image recognition API and return possible recipes to make. Recipic recieved 1st place at the hackathon for best pitch and hack.",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       win: "1st Place Winner",
@@ -637,7 +637,7 @@ export const DATA = {
       dates: "February 3rd - 5th, 2017",
       location: "Planet Earth",
       description:
-        "Developed a mobile game which enables city-wide manhunt with random lobbies",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2017/white.svg",
@@ -659,7 +659,7 @@ export const DATA = {
       dates: "November 26th, 2016",
       location: "Planet Earth",
       description:
-        "Developed a mock of Windows 11 with interesting notifications and functionality",
+        "Telluric Gits Currently Under Construction",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
       links: [
