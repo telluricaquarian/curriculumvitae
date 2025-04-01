@@ -209,7 +209,7 @@ export const DATA = {
     },
     {
       title: "Ursubstanz",
-      href: "https://magicui.design",
+      href: "https://ursubstanz.com/",
       dates: "June 2023 - Present",
       active: true,
       description:
@@ -241,8 +241,8 @@ export const DATA = {
     },
     {
       title: "Areculateir",
-      href: "https://llm.report",
-      dates: "April 2023 - September 2023",
+      href: "https://telluricaquarian.com/",
+      dates: "Nov 28",
       active: true,
       description:
         "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
@@ -306,7 +306,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 21",
       dates: "November 23rd - 25th, 2018",
-      location: "London, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
       image:
@@ -317,7 +317,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 20",
       dates: "September 14th - 16th, 2018",
-      location: "Waterloo, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a mobile application which delivers university campus wide events in real time to all students.",
       image:
@@ -328,7 +328,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 19",
       dates: "March 23rd - 24th, 2018",
-      location: "San Francisco, California",
+      location: "Planet Earth",
       description:
         "Developed a mobile application which communcicates a victims medical data from inside an ambulance to doctors at hospital.",
       icon: "public",
@@ -339,7 +339,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 18",
       dates: "February 3rd - 4th, 2018",
-      location: "San Francisco, California",
+      location: "Planet Earth",
       description:
         "Developed a web application which aggregates social media data regarding cryptocurrencies and predicts future prices.",
       image:
@@ -355,7 +355,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 17",
       dates: "January 20th - 21st, 2018",
-      location: "Davis, California",
+      location: "Planet Earth",
       description:
         "Developed a mobile application which allocates a daily carbon emission allowance to users to move towards a sustainable environment.",
       image:
@@ -388,7 +388,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 16",
       dates: "October 13th - 15th, 2017",
-      location: "Waterloo, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a blockchain application for doctors and pharmacists to perform trustless transactions and prevent overdosage in patients.",
       image:
@@ -404,7 +404,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 15",
       dates: "September 15th - 17th, 2017",
-      location: "Waterloo, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a virtual reality application allowing users to see themselves in third person.",
       image:
@@ -426,7 +426,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 14",
       dates: "August 26th - 27th, 2017",
-      location: "Toronto, Ontario",
+      location: "Planet Earth",
       description:
         "Developed an open platform for people shipping items to same place to combine shipping costs and save money.",
       image:
@@ -448,7 +448,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 13",
       dates: "July 23rd, 2017",
-      location: "Toronto, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a chrome extension which tracks which facebook profiles you have visited and immediately texts your girlfriend if you visited another girls page.",
       image:
@@ -464,7 +464,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 12",
       dates: "June 23rd - 25th, 2017",
-      location: "Toronto, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a python library which can be imported to any python game and change difficulty of the game based on real time emotion of player. Uses OpenCV and webcam for facial recognition, and a custom Machine Learning Model trained on a [Kaggle Emotion Dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard) using [Tensorflow](https://www.tensorflow.org/Tensorflow) and [Keras](https://keras.io/). This project recieved 1st place prize at the Global AI Hackathon - Toronto and was also invited to demo at [NextAI Canada](https://www.nextcanada.com/next-ai).",
       image:
@@ -486,7 +486,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 11",
       dates: "June 17th - 18th, 2017",
-      location: "Montreal, Quebec",
+      location: "Planet Earth",
       description:
         "Developed realtime facial microexpression analyzer using AI",
       image:
@@ -496,7 +496,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 10",
       dates: "June 10th, 2017",
-      location: "Toronto, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a custom admin interface for food waste startup <a href='http://genecis.co/'>Genecis</a> to manage their data and provide analytics.",
       image:
@@ -513,7 +513,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 09",
       dates: "May 19th - 21st, 2017",
-      location: "International",
+      location: "Planet Earth",
       description: "Improved PocketDoc and submitted to online competition",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
@@ -544,7 +544,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 08",
       dates: "May 12th - 14th, 2017",
-      location: "Toronto, Ontario",
+      location: "Planet Earth",
       description: "Developed neural network to optimize a mining process",
       image:
         "https://telluricaquarian.com/wp-content/uploads/2025/04/ib-1.png",
@@ -553,7 +553,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 07",
       dates: "May 5th - 7th, 2017",
-      location: "Waterloo, Ontario",
+      location: "Planet Earth",
       description:
         "Developed Pocketdoc, an app in which you take a picture of a physical wound, and the app returns common solutions or cures to the injuries or diseases.",
       image:
@@ -579,7 +579,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 06",
       dates: "April 28th - 30th, 2017",
-      location: "Waterloo, Ontario",
+      location: "Planet Earth",
       description:
         "Developed Earthwatch, a web application which allows users in a plane to virtually see important points of interest about the world below them. They can even choose to fly away from their route and then fly back if they choose. Special thanks to CesiumJS for providing open source world and plane models.",
       image:
@@ -595,7 +595,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 05",
       dates: "March 24th - 26th, 2017",
-      location: "Ann Arbor, Michigan",
+      location: "Planet Earth",
       description:
         "Developed Super Graphic Air Traffic, a VR website made to introduce people to the world of air traffic controlling. This project was built completely using THREE.js as well as a node backend server.",
       image:
@@ -612,7 +612,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 04",
       dates: "March 4th - 5th, 2017",
-      location: "Waterloo, Ontario",
+      location: "Planet Earth",
       description:
         "Developed at StartHacks 2017, Recipic is a mobile app which allows you to take pictures of ingredients around your house, and it will recognize those ingredients using ClarifAI image recognition API and return possible recipes to make. Recipic recieved 1st place at the hackathon for best pitch and hack.",
       image:
@@ -635,7 +635,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 03",
       dates: "February 3rd - 5th, 2017",
-      location: "Kingston, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a mobile game which enables city-wide manhunt with random lobbies",
       image:
@@ -657,7 +657,7 @@ export const DATA = {
     {
       title: "TLRCAQRN Git 02",
       dates: "November 26th, 2016",
-      location: "Waterloo, Ontario",
+      location: "Planet Earth",
       description:
         "Developed a mock of Windows 11 with interesting notifications and functionality",
       image:
