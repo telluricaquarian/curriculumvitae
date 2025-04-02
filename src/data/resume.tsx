@@ -157,7 +157,7 @@ export const DATA = {
     },
     {
       school: "Udemy",
-      href: "https://wlu.ca",
+      href: "https://www.udemy.com/",
       degree: "Electrolysis - The Path to Green Hydrogen",
       logoUrl: "/laurier.png",
       start: "2016",
