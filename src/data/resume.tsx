@@ -331,7 +331,7 @@ export const DATA = {
         {
           title: "Github",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/telluricaquarian",
+          href: "https://github.com/cryptotrends/cryptotrends",
         },
       ],
     },
@@ -349,17 +349,17 @@ export const DATA = {
         {
           title: "Devpost",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://telluricaquarian.com/",
+          href: "https://devpost.com/software/my6footprint",
         },
         {
           title: "ML",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/telluricaquarian",
+          href: "https://github.com/Wallet6/my6footprint-machine-learning",
         },
         {
           title: "iOS",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/telluricaquarian",
+          href: "https://github.com/Wallet6/CarbonWallet",
         },
         {
           title: "Server",
@@ -424,7 +424,7 @@ export const DATA = {
         {
           title: "Site",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://telluricaquarian.com/",
+          href: "https://share-ship.herokuapp.com/",
         },
       ],
     },
@@ -455,9 +455,9 @@ export const DATA = {
       win: "1st Place Winner",
       links: [
         {
-          title: "TA",
+          title: "Article",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://telluricaquarian.com/",
+          href: "https://syncedreview.com/2017/06/26/global-ai-hackathon-in-toronto/",
         },
         {
           title: "Source",
@@ -503,14 +503,14 @@ export const DATA = {
       win: "Top 10 Finalist | Honourable Mention",
       links: [
         {
-          title: "TA",
+          title: "Medium Article",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://telluricaquarian.com/",
+          href: "https://medium.com/make-school/the-winners-of-make-schools-student-app-competition-2017-a6b0e72f190a",
         },
         {
-          title: "TA",
+          title: "Devpost",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://telluricaquarian.com/,
+          href: "https://devpost.com/software/pocketdoc-react-native",
         },
         {
           title: "YouTube",
