@@ -331,7 +331,7 @@ export const DATA = {
         {
           title: "Github",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/cryptotrends/cryptotrends",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -354,17 +354,17 @@ export const DATA = {
         {
           title: "ML",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/Wallet6/my6footprint-machine-learning",
+          href: "https://github.com/telluricaquarian",
         },
         {
           title: "iOS",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/Wallet6/CarbonWallet",
+          href: "https://github.com/telluricaquarian",
         },
         {
           title: "Server",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/Wallet6/wallet6-server",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -380,7 +380,7 @@ export const DATA = {
         {
           title: "Organization",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/ethdocnet",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -402,7 +402,7 @@ export const DATA = {
         {
           title: "Client Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/RTSPClient",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -419,7 +419,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/ShareShip/ShareShip",
+          href: "https://github.com/telluricaquarian",
         },
         {
           title: "Site",
@@ -440,7 +440,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/nsagirlfriend/nsagirlfriend",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -462,7 +462,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/TinySamosas/",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -489,7 +489,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/genecis",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -520,7 +520,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/pocketdoc-react-native",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -545,17 +545,17 @@ export const DATA = {
         {
           title: "Devpost",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://devpost.com/software/pocketdoc-react-native",
+          href: "https://github.com/telluricaquarian",
         },
         {
           title: "YouTube",
           icon: <Icons.youtube className="h-4 w-4" />,
-          href: "https://www.youtube.com/watch?v=XwFdn5Rmx68",
+          href: "https://www.youtube.com/@telluricaquarian",
         },
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/pocketdoc-react-native",
+          href: "https://github.com/telluricaquariane",
         },
       ],
     },
@@ -571,7 +571,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/earthwatch",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -588,7 +588,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/threejs-planes",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -606,12 +606,12 @@ export const DATA = {
         {
           title: "Source (Mobile)",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/mattBlackDesign/recipic-ionic",
+          href: "https://github.com/telluricaquarian",
         },
         {
           title: "Source (Server)",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/mattBlackDesign/recipic-rails",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -628,12 +628,12 @@ export const DATA = {
         {
           title: "Source (Mobile)",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/dillionverma/human-huntr-react-native",
+          href: "https://github.com/telluricaquarian",
         },
         {
           title: "Source (API)",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/mattBlackDesign/human-huntr-rails",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
@@ -649,7 +649,7 @@ export const DATA = {
         {
           title: "Source",
           icon: <Icons.github className="h-4 w-4" />,
-          href: "https://github.com/justinmichaud/TerribleHacks2016-Windows11",
+          href: "https://github.com/telluricaquarian",
         },
       ],
     },
