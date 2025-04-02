@@ -248,7 +248,7 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "https://github.com/telluricaquarian",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -276,7 +276,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://automatic.chat",
+          href: "https://www.youtube.com/@telluricaquarian",
           icon: <Icons.globe className="size-3" />,
         },
       ],
