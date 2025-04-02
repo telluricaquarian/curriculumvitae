@@ -188,7 +188,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://telluricaquarian.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -243,7 +243,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://llm.report",
+          href: "https://telluricaquarian.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
