@@ -229,7 +229,7 @@ export const DATA = {
       dates: "Nov 28",
       active: true,
       description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+        "Web. Design & Development",
       technologies: [
         "Next.js",
         "Typescript",
