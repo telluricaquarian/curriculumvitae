@@ -424,7 +424,7 @@ export const DATA = {
         {
           title: "Site",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://share-ship.herokuapp.com/",
+          href: "https://telluricaquarian.com/",
         },
       ],
     },
@@ -455,9 +455,9 @@ export const DATA = {
       win: "1st Place Winner",
       links: [
         {
-          title: "Article",
+          title: "TA",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://syncedreview.com/2017/06/26/global-ai-hackathon-in-toronto/",
+          href: "https://telluricaquarian.com/",
         },
         {
           title: "Source",
@@ -503,14 +503,14 @@ export const DATA = {
       win: "Top 10 Finalist | Honourable Mention",
       links: [
         {
-          title: "Medium Article",
+          title: "TA",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://medium.com/make-school/the-winners-of-make-schools-student-app-competition-2017-a6b0e72f190a",
+          href: "https://telluricaquarian.com/",
         },
         {
-          title: "Devpost",
+          title: "TA",
           icon: <Icons.globe className="h-4 w-4" />,
-          href: "https://devpost.com/software/pocketdoc-react-native",
+          href: "https://telluricaquarian.com/,
         },
         {
           title: "YouTube",
