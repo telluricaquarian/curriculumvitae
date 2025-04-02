@@ -158,7 +158,7 @@ export const DATA = {
     {
       school: "Udemy",
       href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
+      degree: "Electrolysis - The Path to Green Hydrogen",
       logoUrl: "/laurier.png",
       start: "2016",
       end: "2021",
