@@ -165,7 +165,7 @@ export const DATA = {
     },
     {
       school: "YMAA",
-      href: "https://ibo.org",
+      href: "https://ymaa.com/",
       degree: "Understanding Qigong 1: What is Qi Energy & Qigong? Dr Yang",
       logoUrl: "/ib.png",
       start: "2023",
