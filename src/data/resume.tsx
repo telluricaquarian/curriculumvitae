@@ -288,7 +288,7 @@ export const DATA = {
   hackathons: [
     {
       title: "TLRCAQRN Git 21",
-      dates: "November 23rd - 25th, 2018",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction.",
@@ -299,7 +299,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 20",
-      dates: "September 14th - 16th, 2018",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction.",
@@ -310,7 +310,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 19",
-      dates: "March 23rd - 24th, 2018",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction.",
@@ -321,7 +321,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 18",
-      dates: "February 3rd - 4th, 2018",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction.",
@@ -337,7 +337,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 17",
-      dates: "January 20th - 21st, 2018",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction.",
@@ -370,7 +370,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 16",
-      dates: "October 13th - 15th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -386,7 +386,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 15",
-      dates: "September 15th - 17th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction.",
@@ -408,7 +408,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 14",
-      dates: "August 26th - 27th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -430,7 +430,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 13",
-      dates: "July 23rd, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -446,7 +446,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 12",
-      dates: "June 23rd - 25th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -468,7 +468,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 11",
-      dates: "June 17th - 18th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -478,7 +478,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 10",
-      dates: "June 10th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -495,7 +495,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 09",
-      dates: "May 19th - 21st, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description: "Telluric Gits Currently Under Construction",
       image:
@@ -526,7 +526,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 08",
-      dates: "May 12th - 14th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description: "Developed neural network to optimize a mining process",
       image:
@@ -535,7 +535,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 07",
-      dates: "May 5th - 7th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -561,7 +561,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 06",
-      dates: "April 28th - 30th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -577,7 +577,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 05",
-      dates: "March 24th - 26th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -594,7 +594,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 04",
-      dates: "March 4th - 5th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -617,7 +617,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 03",
-      dates: "February 3rd - 5th, 2017",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
@@ -639,7 +639,7 @@ export const DATA = {
     },
     {
       title: "TLRCAQRN Git 02",
-      dates: "November 26th, 2016",
+      dates: "2023",
       location: "Planet Earth",
       description:
         "Telluric Gits Currently Under Construction",
